@@ -3,6 +3,9 @@
 ## CreatedAt
 7th Dec 2021
 
+## Project Video
+https://user-images.githubusercontent.com/95255730/145021293-4209f00d-ec13-4956-88a4-a8bf75cdb1f5.mov
+
 ## Detail of the project
 
 The Project is for learning HTML Canvas and JavaScript.
